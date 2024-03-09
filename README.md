@@ -4,11 +4,13 @@
 
 Com base em suas informações corporais, este aplicativo irá apresentar o resultado de seu IMC. 
 
-[Demo](http://)
+Inspirado no designer de [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
+
+[Demo](https://heliomarpm.github.io/flutter-calc_imc/)
 
 ## Funcionalidades
 
-- Insira seu peso (em quilogramas) e altura (em centimetros).
+- Insira seu peso (em quiloramas) e altura (em centimetros).
 - O aplicativo calculará automaticamente o IMC.
 - Fornece uma interpretação do IMC com base nos seguintes intervalos:
   - **Abaixo do peso**: IMC < 18.5
@@ -18,8 +20,7 @@ Com base em suas informações corporais, este aplicativo irá apresentar o resu
 
 ## Capturas de Tela
 
-<img src="screenshot.png" width="300px"/>
-<img src="screenshot_result.png" width="300px"/>
+<img src="screenshot.png" width="230px"/> <img src="screenshot_result.png" width="230px"/>
 
 
 ## Contribuições
