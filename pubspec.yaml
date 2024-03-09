@@ -16,7 +16,7 @@ dependencies:
   
   device_preview:
     git:
-      url: https://github.com/heliomarpm/flutter_device_preview.git
+      url: https://github.com/abuanwar072/device_preview.git
 
 dev_dependencies:
   flutter_test:
