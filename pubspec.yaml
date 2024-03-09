@@ -13,6 +13,10 @@ dependencies:
 
   cupertino_icons: ^1.0.6
   font_awesome_flutter: 10.7.0
+  
+  device_preview:
+    git:
+      url: https://github.com/heliomarpm/flutter_device_preview.git
 
 dev_dependencies:
   flutter_test:
