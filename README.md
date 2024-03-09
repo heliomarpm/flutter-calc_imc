@@ -1,16 +1,35 @@
-# calculadora_imc
+<span id="top"></span>
 
-A new Flutter project.
+# Calculadora de IMC (Índice de Massa Corporal)
 
-## Getting Started
+Com base em suas informações corporais, este aplicativo irá apresentar o resultado de seu IMC. 
 
-This project is a starting point for a Flutter application.
+[Demo](http://)
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Insira seu peso (em quilogramas) e altura (em centimetros).
+- O aplicativo calculará automaticamente o IMC.
+- Fornece uma interpretação do IMC com base nos seguintes intervalos:
+  - **Abaixo do peso**: IMC < 18.5
+  - **Peso normal**: 18.5 ≤ IMC < 24.9
+  - **Sobrepeso**: 25 ≤ IMC < 29.9
+  - **Obesidade**: IMC ≥ 30
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas de Tela
+
+<img src="screenshot.png" width="300px"/>
+<img src="screenshot_result.png" width="300px"/>
+
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um **pull request** com melhorias ou correções.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT.
+
+---
+
+Aproveite o desenvolvimento e divirta-se calculando o IMC! 📏💪
